@@ -30,3 +30,8 @@ Open your terminal and download the required lightweight models into Ollama:
 ```bash
 ollama run llama3.2:3b
 ollama run moondream
+
+### 3. Install Python Dependencies
+Clone this repository to your computer, open your terminal inside the folder, and install the required libraries:
+```bash
+pip install -r requirements.txt
